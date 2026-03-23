@@ -2,7 +2,6 @@
 
 A modern, full-stack Customer Relationship Management (CRM) application built to be lightning-fast, secure, and user-friendly.
 
-![Screenshot placeholder](https://via.placeholder.com/800x400?text=CRM+Application+Dashboard)
 
 ## ✨ Features
 
